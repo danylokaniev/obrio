@@ -1,0 +1,13 @@
+.pagination {
+	display: flex;
+	justify-content: space-between;
+	height: 3.125em;
+	align-items: center;
+	font-size: 2em;
+}
+
+.error {
+	font-size: 1.5em;
+	color: red;
+	text-align: center;
+}
